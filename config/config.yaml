@@ -1,16 +1,16 @@
 # your domain
-domain: by-mini.herokuapp.com
+domain: example.com
 
 # database url
 database_url: ""
 
 # cloudflare api
-cf_email: "lskonbar@gmail.com"
-cf_key: "fYl1JNpSdnLONGNpfCWb6mjsN_Rrg1vJKFXkP7Og"
+cf_email: ""
+cf_key: ""
 
 # source definition file
 source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://by-mini.herokuapp.com/source.yaml
+  - https://example.com/source.yaml
